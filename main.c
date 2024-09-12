@@ -1,3 +1,5 @@
+//version 2
+
 #include <stdio.h>
 
 #define MACRO 4
